@@ -1,8 +1,8 @@
 {
   "name": "sortingvisualizer_react",
   "version": "0.1.0",
-  "author":"Piyush Patel",
-  "author_github" : "https://github.com/piyushpatelcodes",
+  "author":"Asmit Aditya Singh",
+  "author_github" : "https://github.com/Asmit13",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^2.2.0",

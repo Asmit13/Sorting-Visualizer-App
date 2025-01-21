@@ -1,6 +1,6 @@
 package java_files;
 
-class p {
+class bubbleSort{
     
     // An optimized version of Bubble Sort
     static int[] bubbleSort(int arr[], int n){
